@@ -1,0 +1,5 @@
+venvDkp/*
+**/__pycache__/
+build/*
+bot.spec
+example.lua

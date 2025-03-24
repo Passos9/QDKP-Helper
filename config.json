@@ -1,0 +1,15 @@
+{
+  "PREFIX": "!",
+  "SERVER": "Lordaeron",
+  "GUILD": "The Four Words Guild",
+  "DKP_MASTER": "Frankenson",
+  "ICC25_SESSION_NAME": "Icecrown Citadel (25)",
+  "RS25_SESSION_NAME": "The Ruby Sanctum (25)",
+  "WOW_DATA": "https://wotlk.evowow.com",
+  "IGNORE_LIST": [
+    "Player1",
+    "Player2",
+    "Player3",
+    "Player4"
+  ]
+}
